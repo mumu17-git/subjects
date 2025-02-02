@@ -1,6 +1,4 @@
 site_name: Subject
-pages:
-  - Home: index.md
 theme:
   name: material
 use_directory_urls: false
